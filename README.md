@@ -13,7 +13,7 @@ Since this is our first time using apt for this session, start off by updating y
 sudo apt update
 sudo apt install nginx
 ```
-/home/phils/Pictures/Screenshots/Screenshot from 2022-12-03 20-48-33.png
+![www](../../Pictures/Screenshots/Screenshot%20from%202022-12-03%2020-48-33.png)
 
 When prompted, enter `Y` to confirm that you want to install Nginx. Once the installation is finished, the Nginx web server will be active and running on your Ubuntu server.
 
