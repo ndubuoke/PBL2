@@ -43,6 +43,7 @@ curl -s http://169.254.169.254/latest/meta-data/public-ipv4
 ```
 ![Screenshot from 2022-12-07 08-34-52](https://user-images.githubusercontent.com/84657461/206116751-eab1dcc4-f44b-4b27-b506-1a3a3c8db477.png)
 
+---
 
 
 
