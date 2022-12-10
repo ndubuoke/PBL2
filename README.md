@@ -276,6 +276,8 @@ Notice the `-p` flag in this command, which will prompt you for the password use
 
 mysql> SHOW DATABASES;
 This will give you the following output:
+
+```
 Output
 +--------------------+
 | Database       	|
@@ -283,6 +285,7 @@ Output
 | example_database   |
 | information_schema |
 +--------------------+
+```
 2 rows in set (0.000 sec)
 
 Next, we’ll create a test table named todo_list. From the MySQL console, run the following statement:
