@@ -304,12 +304,15 @@ To confirm that the data was successfully saved to your table, run:
 SELECT * FROM example_database.todo_list;
 ```
 You’ll see the following output:
+
+```
 Output
 +---------+--------------------------+
 | item_id | content              	|
 +---------+--------------------------+
 |   	1 | My first important item  |
 +---------+--------------------------+
+```
 4 rows in set (0.000 sec)
 After confirming that you have valid data in your test table, you can exit the MySQL console:
 
